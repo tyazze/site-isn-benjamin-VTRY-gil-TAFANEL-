@@ -10,9 +10,22 @@
 {
 	border: 5px solid;
 	margin: auto;
+	
+	position: relative;
+	left: 600px;
+	bottom: 500px;
 }
 
 .ingredient
 {
 
+}
+
+body
+{
+ position: relative;
+ margin-right: 250px;
+ margin-left: 250px;
+ margin-top: 0px;
+ margin-bottom: 0px;
 }
