@@ -1,0 +1,52 @@
+*
+{
+	font-family: "comic sans ms";
+	background-color: rgba(241, 3, 3, 0.23);
+	/*margin: auto;
+	text-align: center;*/
+}
+
+.gateau
+{
+	border: 5px solid;
+	margin: auto;
+	position: relative;
+	left: 850px;
+	bottom: 380px;
+}
+
+.ingredient
+{
+
+}
+
+body
+{
+	position: relative;
+	margin-right: 250px;
+	margin-left: 250px;
+	margin-top: 50px;
+	margin-bottom: 10px;
+	border: 1px solid #26384f;
+	box-shadow: 0 0 5px #000;
+}
+
+.tab
+{
+	position: relative;
+	margin-left: 250px;
+}
+
+.quant
+{
+	position: relative;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.ingr
+{
+	position: relative;
+	margin-left: 50px;
+	margin-right: 50px;
+}
